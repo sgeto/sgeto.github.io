@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: Average Coder
+description: Random programming and networking stuff
+github_username: sgeto
+paginate: 5
+gems: [jekyll-paginate, kramdown]
+markdown: kramdown
