@@ -1,4 +1,2 @@
-_site
-.sass-cache
-.jekyll-metadata
-**.orig
+node_modules
+.build
